@@ -4,7 +4,10 @@ A comprehensive guide to using Markdown in Jupyter Notebook, with a focus on Dat
 
 ## 📚 What's Inside
 
-This repository contains a complete tutorial notebook that teaches you how to effectively use Markdown in Jupyter Notebook for Data Science projects.
+This repository contains comprehensive resources to help you master Markdown in Jupyter Notebook for Data Science:
+
+1. **Markdown_Tutorial_DataScience.ipynb** - Complete guide with all Markdown features
+2. **Example_Analysis.ipynb** - Practical example of a Data Science project with proper documentation
 
 ### Topics Covered:
 
@@ -43,7 +46,9 @@ pip install jupyter
 jupyter notebook
 ```
 
-4. Open `Markdown_Tutorial_DataScience.ipynb` in your browser
+4. Open the tutorial notebooks:
+   - Start with `Markdown_Tutorial_DataScience.ipynb` for comprehensive learning
+   - Review `Example_Analysis.ipynb` for a practical project example
 
 ## 📖 How to Use This Tutorial
 
